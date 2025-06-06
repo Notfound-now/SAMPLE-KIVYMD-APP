@@ -4,7 +4,7 @@
 title = SampleApp
 
 # (str) Package name
-package.name = nfsApk
+package.name = Apk
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.novfensec
